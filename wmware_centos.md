@@ -1,4 +1,4 @@
-### Installing VMWARE on CentOS
+# Installing VMWARE on CentOS
 
 VMWare version: **VMware Workstation 11.0.0 build-2305329**
 
