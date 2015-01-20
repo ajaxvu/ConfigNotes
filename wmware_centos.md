@@ -34,7 +34,7 @@ Return to the terminal, then lets install “Development tools”:
 
 Try to start vmware again. Another issue may be be appear, its talk about **kernel-headers**. In this case, we need to install proper kernel header by typing:
 
-```install kernel-headers-`uname -r` ```
+``install kernel-headers-$(uname -r) ``
 
 Reference: [http://www.tecmint.com/install-vmware-workstation-11-in-linux/](http://www.tecmint.com/install-vmware-workstation-11-in-linux/)
 
